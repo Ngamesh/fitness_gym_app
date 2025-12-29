@@ -1,0 +1,22 @@
+moduledependenciestarget: \
+  /Users/ngameshbhandari/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Modules/module.modulemap \
+  /Users/ngameshbhandari/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterMacOS.h \
+  /Users/ngameshbhandari/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterAppDelegate.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk/System/Library/Frameworks/Cocoa.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk/usr/include/DarwinFoundation1.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk/System/Library/Frameworks/AppKit.framework/Modules/module.modulemap \
+  /Users/ngameshbhandari/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterAppLifecycleDelegate.h \
+  /Users/ngameshbhandari/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterMacros.h \
+  /Users/ngameshbhandari/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/ngameshbhandari/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterChannels.h \
+  /Users/ngameshbhandari/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterCodecs.h \
+  /Users/ngameshbhandari/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterDartProject.h \
+  /Users/ngameshbhandari/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterEngine.h \
+  /Users/ngameshbhandari/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterPluginRegistrarMacOS.h \
+  /Users/ngameshbhandari/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterPlatformViews.h \
+  /Users/ngameshbhandari/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterPluginMacOS.h \
+  /Users/ngameshbhandari/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterTexture.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk/System/Library/Frameworks/CoreMedia.framework/Modules/module.modulemap \
+  /Users/ngameshbhandari/flutter/bin/cache/artifacts/engine/darwin-x64/FlutterMacOS.framework/Headers/FlutterViewController.h

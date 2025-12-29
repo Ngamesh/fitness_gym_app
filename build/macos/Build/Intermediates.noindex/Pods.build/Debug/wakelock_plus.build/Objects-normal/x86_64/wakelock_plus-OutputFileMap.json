@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/ngameshbhandari/Downloads/Documents/fitness_gym_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/wakelock_plus.build/Objects-normal/x86_64/wakelock_plus-primary.dia",
+    "emit-module-dependencies" : "/Users/ngameshbhandari/Downloads/Documents/fitness_gym_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/wakelock_plus.build/Objects-normal/x86_64/wakelock_plus-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ngameshbhandari/Downloads/Documents/fitness_gym_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/wakelock_plus.build/Objects-normal/x86_64/wakelock_plus-primary-emit-module.dia",
+    "pch" : "/Users/ngameshbhandari/Downloads/Documents/fitness_gym_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/wakelock_plus.build/Objects-normal/x86_64/wakelock_plus-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/ngameshbhandari/Downloads/Documents/fitness_gym_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/wakelock_plus.build/Objects-normal/x86_64/wakelock_plus-primary.swiftdeps"
+  },
+  "/Users/ngameshbhandari/.pub-cache/hosted/pub.dev/wakelock_plus-1.1.1/macos/Classes/WakelockPlusMacosPlugin.swift" : {
+    "const-values" : "/Users/ngameshbhandari/Downloads/Documents/fitness_gym_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/wakelock_plus.build/Objects-normal/x86_64/WakelockPlusMacosPlugin.swiftconstvalues",
+    "dependencies" : "/Users/ngameshbhandari/Downloads/Documents/fitness_gym_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/wakelock_plus.build/Objects-normal/x86_64/WakelockPlusMacosPlugin.d",
+    "diagnostics" : "/Users/ngameshbhandari/Downloads/Documents/fitness_gym_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/wakelock_plus.build/Objects-normal/x86_64/WakelockPlusMacosPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/wakelock_plus.build/Objects-normal/x86_64/WakelockPlusMacosPlugin.o",
+    "llvm-bc" : "/Users/ngameshbhandari/Downloads/Documents/fitness_gym_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/wakelock_plus.build/Objects-normal/x86_64/WakelockPlusMacosPlugin.bc",
+    "object" : "/Users/ngameshbhandari/Downloads/Documents/fitness_gym_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/wakelock_plus.build/Objects-normal/x86_64/WakelockPlusMacosPlugin.o",
+    "swift-dependencies" : "/Users/ngameshbhandari/Downloads/Documents/fitness_gym_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/wakelock_plus.build/Objects-normal/x86_64/WakelockPlusMacosPlugin.swiftdeps",
+    "swiftmodule" : "/Users/ngameshbhandari/Downloads/Documents/fitness_gym_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/wakelock_plus.build/Objects-normal/x86_64/WakelockPlusMacosPlugin~partial.swiftmodule"
+  }
+}

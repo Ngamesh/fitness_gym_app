@@ -1,0 +1,886 @@
+Analyzing fitness_gym_app...                                    
+
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:23:18 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:24:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:30:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:59:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:91:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:93:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:125:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:127:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:139:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:172:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:174:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:186:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:228:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:230:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:278:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:280:22 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/activity.dart:314:28 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:315:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:317:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:327:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:329:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:343:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:345:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:358:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:360:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:374:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:376:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:389:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:391:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:403:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:407:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:408:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:409:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:413:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:449:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:450:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:451:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:454:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:456:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:480:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:501:31 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:510:24 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/activity.dart:528:30 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:529:21 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:531:31 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:540:24 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/activity.dart:554:30 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:555:21 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:557:31 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:562:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:563:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/activity.dart:565:28 • prefer_const_constructors
+   info • The constant name '_svg_vaylyl' isn't a lowerCamelCase identifier • lib/activity.dart:583:14 • constant_identifier_names
+   info • The constant name '_svg_nzigan' isn't a lowerCamelCase identifier • lib/activity.dart:585:14 • constant_identifier_names
+   info • The constant name '_svg_kc0' isn't a lowerCamelCase identifier • lib/activity.dart:587:14 • constant_identifier_names
+   info • The constant name '_svg_t37' isn't a lowerCamelCase identifier • lib/activity.dart:589:14 • constant_identifier_names
+   info • The constant name '_svg_q1sn6m' isn't a lowerCamelCase identifier • lib/activity.dart:591:14 • constant_identifier_names
+   info • The constant name '_svg_c5lz' isn't a lowerCamelCase identifier • lib/activity.dart:593:14 • constant_identifier_names
+   info • The constant name '_svg_iynbn3' isn't a lowerCamelCase identifier • lib/activity.dart:595:14 • constant_identifier_names
+   info • The constant name '_svg_nhkzec' isn't a lowerCamelCase identifier • lib/activity.dart:597:14 • constant_identifier_names
+   info • The constant name '_svg_j70qyp' isn't a lowerCamelCase identifier • lib/activity.dart:599:14 • constant_identifier_names
+   info • The constant name '_svg_n1' isn't a lowerCamelCase identifier • lib/activity.dart:601:14 • constant_identifier_names
+   info • The constant name '_svg_a7n9tg' isn't a lowerCamelCase identifier • lib/activity.dart:603:14 • constant_identifier_names
+   info • Constructors in '@immutable' classes should be declared as 'const' • lib/diet.dart:10:3 • prefer_const_constructors_in_immutables
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/diet.dart:38:42 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:39:33 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:41:43 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:48:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:55:40 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/diet.dart:61:44 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:62:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:64:45 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:74:36 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/diet.dart:75:41 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:76:33 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:78:39 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:79:42 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:80:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:82:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:91:33 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:93:42 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:96:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:98:46 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/diet.dart:125:42 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:126:33 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:128:43 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:135:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:142:40 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/diet.dart:148:44 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:149:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:151:45 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:161:36 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/diet.dart:162:41 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:163:33 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:165:42 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:168:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:170:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:182:33 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:184:42 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:187:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:189:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:200:33 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:202:42 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:205:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:206:39 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:207:48 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/diet.dart:213:51 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:214:43 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:216:52 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:220:43 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:223:52 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:230:59 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/diet.dart:251:42 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:252:33 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:254:43 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:261:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:268:40 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/diet.dart:274:44 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:275:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:277:45 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:289:33 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:291:42 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:294:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:296:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:311:42 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:313:44 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/diet.dart:338:42 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:339:33 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:341:43 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:348:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:355:40 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/diet.dart:361:44 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:362:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:364:45 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:376:33 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:378:42 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:381:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:383:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:398:42 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:400:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:427:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:428:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:432:31 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:433:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:434:31 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/diet.dart:436:28 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:437:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:439:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:456:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:458:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:529:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:531:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:563:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:565:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:577:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:601:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:603:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:615:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:656:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/diet.dart:658:30 • prefer_const_constructors
+   info • The constant name '_svg_rwgw' isn't a lowerCamelCase identifier • lib/diet.dart:709:14 • constant_identifier_names
+   info • The constant name '_svg_jpcfxw' isn't a lowerCamelCase identifier • lib/diet.dart:711:14 • constant_identifier_names
+   info • The constant name '_svg_lv8jm6' isn't a lowerCamelCase identifier • lib/diet.dart:713:14 • constant_identifier_names
+   info • The constant name '_svg_npmz8u' isn't a lowerCamelCase identifier • lib/diet.dart:715:14 • constant_identifier_names
+   info • The constant name '_svg_fwj8eu' isn't a lowerCamelCase identifier • lib/diet.dart:717:14 • constant_identifier_names
+   info • The constant name '_svg_ukqp4r' isn't a lowerCamelCase identifier • lib/diet.dart:719:14 • constant_identifier_names
+   info • The constant name '_svg_w3yrv6' isn't a lowerCamelCase identifier • lib/diet.dart:721:14 • constant_identifier_names
+   info • The constant name '_svg_ucgot' isn't a lowerCamelCase identifier • lib/diet.dart:723:14 • constant_identifier_names
+   info • Constructors in '@immutable' classes should be declared as 'const' • lib/edit_account.dart:13:3 • prefer_const_constructors_in_immutables
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:60:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:92:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:94:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:126:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:128:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:140:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:173:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:175:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:187:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:210:24 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/edit_account.dart:216:28 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:217:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:219:29 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/edit_account.dart:233:28 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:234:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:236:29 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/edit_account.dart:250:28 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:251:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:253:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:263:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:265:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:272:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:274:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:277:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:289:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:290:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:291:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:294:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:296:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:342:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:344:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:395:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:396:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:404:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:406:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:409:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:420:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:422:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:436:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:438:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:452:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:454:22 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/edit_account.dart:472:28 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:473:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:475:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:485:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:487:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:494:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:496:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:510:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:512:22 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/edit_account.dart:541:34 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:542:25 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:544:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:551:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:552:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:553:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:556:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/edit_account.dart:558:30 • prefer_const_constructors
+   info • The constant name '_svg_y6wk7b' isn't a lowerCamelCase identifier • lib/edit_account.dart:579:14 • constant_identifier_names
+   info • The constant name '_svg_e09j4q' isn't a lowerCamelCase identifier • lib/edit_account.dart:581:14 • constant_identifier_names
+   info • The constant name '_svg_sqbtb8' isn't a lowerCamelCase identifier • lib/edit_account.dart:583:14 • constant_identifier_names
+   info • The constant name '_svg_sbh6dn' isn't a lowerCamelCase identifier • lib/edit_account.dart:585:14 • constant_identifier_names
+   info • The constant name '_svg_o2ue4m' isn't a lowerCamelCase identifier • lib/edit_account.dart:587:14 • constant_identifier_names
+   info • The constant name '_svg_e6htx' isn't a lowerCamelCase identifier • lib/edit_account.dart:589:14 • constant_identifier_names
+   info • The constant name '_svg_xnlyjc' isn't a lowerCamelCase identifier • lib/edit_account.dart:591:14 • constant_identifier_names
+   info • The constant name '_svg_ylbphb' isn't a lowerCamelCase identifier • lib/edit_account.dart:593:14 • constant_identifier_names
+   info • Constructors in '@immutable' classes should be declared as 'const' • lib/exercises.dart:12:3 • prefer_const_constructors_in_immutables
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/exercises.dart:50:44 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:51:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:53:45 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:66:42 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/exercises.dart:72:46 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:73:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:75:47 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:83:42 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:89:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:91:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:94:48 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:96:50 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:111:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:113:48 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:123:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:125:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:128:48 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:130:50 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/exercises.dart:179:44 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:180:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:182:45 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:195:42 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/exercises.dart:201:46 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:202:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:204:47 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:212:42 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:221:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:223:48 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:234:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:236:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:239:48 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:241:50 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/exercises.dart:289:44 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:290:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:292:45 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:305:42 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/exercises.dart:311:46 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:312:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:314:47 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:322:42 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:331:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:333:48 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:344:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:346:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:349:48 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:351:50 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/exercises.dart:399:44 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:400:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:402:45 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:415:42 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/exercises.dart:421:46 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:422:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:424:47 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:432:42 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:441:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:443:48 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:457:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:459:48 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:499:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:500:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:504:31 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:505:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:506:31 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/exercises.dart:508:28 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:509:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:511:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:537:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:539:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:572:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:604:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:606:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:638:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:640:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:652:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:685:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:687:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:699:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:741:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/exercises.dart:743:30 • prefer_const_constructors
+   info • The constant name '_svg_vdmiy6' isn't a lowerCamelCase identifier • lib/exercises.dart:794:14 • constant_identifier_names
+   info • The constant name '_svg_drrx2' isn't a lowerCamelCase identifier • lib/exercises.dart:796:14 • constant_identifier_names
+   info • The constant name '_svg_f3jr6j' isn't a lowerCamelCase identifier • lib/exercises.dart:798:14 • constant_identifier_names
+   info • The constant name '_svg_v7hze2' isn't a lowerCamelCase identifier • lib/exercises.dart:800:14 • constant_identifier_names
+   info • The constant name '_svg_vqby3e' isn't a lowerCamelCase identifier • lib/exercises.dart:802:14 • constant_identifier_names
+   info • The constant name '_svg_nrgyow' isn't a lowerCamelCase identifier • lib/exercises.dart:804:14 • constant_identifier_names
+   info • The constant name '_svg_p9kdg7' isn't a lowerCamelCase identifier • lib/exercises.dart:806:14 • constant_identifier_names
+   info • The constant name '_svg_d66nnk' isn't a lowerCamelCase identifier • lib/exercises.dart:808:14 • constant_identifier_names
+   info • The constant name '_svg_w2dg2i' isn't a lowerCamelCase identifier • lib/exercises.dart:810:14 • constant_identifier_names
+   info • The constant name '_svg_o4qh' isn't a lowerCamelCase identifier • lib/exercises.dart:812:14 • constant_identifier_names
+   info • The constant name '_svg_an3aeq' isn't a lowerCamelCase identifier • lib/exercises.dart:814:14 • constant_identifier_names
+   info • Constructors in '@immutable' classes should be declared as 'const' • lib/home.dart:14:3 • prefer_const_constructors_in_immutables
+   info • Unnecessary 'new' keyword • lib/home.dart:870:52 • unnecessary_new
+   info • The constant name '_svg_mze1ka' isn't a lowerCamelCase identifier • lib/home.dart:1604:14 • constant_identifier_names
+   info • The constant name '_svg_mlwltx' isn't a lowerCamelCase identifier • lib/home.dart:1606:14 • constant_identifier_names
+   info • The constant name '_svg_oi7' isn't a lowerCamelCase identifier • lib/home.dart:1608:14 • constant_identifier_names
+   info • The constant name '_svg_vu87u8' isn't a lowerCamelCase identifier • lib/home.dart:1610:14 • constant_identifier_names
+   info • The constant name '_svg_rj95m9' isn't a lowerCamelCase identifier • lib/home.dart:1612:14 • constant_identifier_names
+   info • The constant name '_svg_dc9pcr' isn't a lowerCamelCase identifier • lib/home.dart:1614:14 • constant_identifier_names
+   info • The constant name '_svg_y7ba' isn't a lowerCamelCase identifier • lib/home.dart:1616:14 • constant_identifier_names
+   info • The constant name '_svg_xmg2a' isn't a lowerCamelCase identifier • lib/home.dart:1618:14 • constant_identifier_names
+   info • The constant name '_svg_m6ojvd' isn't a lowerCamelCase identifier • lib/home.dart:1620:14 • constant_identifier_names
+   info • The constant name '_svg_ea9atv' isn't a lowerCamelCase identifier • lib/home.dart:1622:14 • constant_identifier_names
+   info • The constant name '_svg_gqpco' isn't a lowerCamelCase identifier • lib/home.dart:1624:14 • constant_identifier_names
+   info • The constant name '_svg_lk84gt' isn't a lowerCamelCase identifier • lib/home.dart:1626:14 • constant_identifier_names
+   info • The constant name '_svg_ifzrp' isn't a lowerCamelCase identifier • lib/home.dart:1628:14 • constant_identifier_names
+   info • The constant name '_svg_v2662j' isn't a lowerCamelCase identifier • lib/home.dart:1630:14 • constant_identifier_names
+   info • The constant name '_svg_kuridn' isn't a lowerCamelCase identifier • lib/home.dart:1632:14 • constant_identifier_names
+   info • The constant name '_svg_a20p2' isn't a lowerCamelCase identifier • lib/home.dart:1634:14 • constant_identifier_names
+   info • The constant name '_svg_wu10zj' isn't a lowerCamelCase identifier • lib/home.dart:1636:14 • constant_identifier_names
+   info • Constructors for public widgets should have a named 'key' parameter • lib/login.dart:8:7 • use_key_in_widget_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:32:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:39:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:47:18 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:48:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:49:22 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/login.dart:88:28 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:89:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:91:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:103:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:105:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:107:28 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/login.dart:112:32 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:113:25 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:115:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:125:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:126:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:128:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:130:30 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/login.dart:135:34 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:136:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:138:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:149:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:150:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:152:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:154:30 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/login.dart:159:34 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:160:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:162:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:173:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:174:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:176:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:178:30 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/login.dart:183:34 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:184:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:186:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:197:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:198:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:200:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:202:30 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/login.dart:207:34 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:208:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:210:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:221:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:222:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:224:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:226:30 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/login.dart:231:34 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:232:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:234:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:248:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:255:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:260:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:262:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:273:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:284:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:290:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:312:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:314:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:327:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:338:24 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/login.dart:361:38 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:362:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:364:39 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:372:34 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/login.dart:388:40 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:389:31 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:391:41 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:396:34 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/login.dart:397:39 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:398:31 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:399:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:400:40 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:403:42 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:405:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:428:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:439:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:450:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:461:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:474:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:476:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/login.dart:488:24 • prefer_const_constructors
+   info • The constant name '_svg_zdx8ju' isn't a lowerCamelCase identifier • lib/login.dart:504:14 • constant_identifier_names
+   info • The constant name '_svg_q8s53m' isn't a lowerCamelCase identifier • lib/login.dart:506:14 • constant_identifier_names
+   info • The constant name '_svg_jhorw' isn't a lowerCamelCase identifier • lib/login.dart:508:14 • constant_identifier_names
+   info • The constant name '_svg_plz7jg' isn't a lowerCamelCase identifier • lib/login.dart:510:14 • constant_identifier_names
+   info • The constant name '_svg_jd8xui' isn't a lowerCamelCase identifier • lib/login.dart:512:14 • constant_identifier_names
+   info • The constant name '_svg_ew3idi' isn't a lowerCamelCase identifier • lib/login.dart:514:14 • constant_identifier_names
+   info • Constructors for public widgets should have a named 'key' parameter • lib/main.dart:8:7 • use_key_in_widget_constructors
+   info • Constructors in '@immutable' classes should be declared as 'const' • lib/membership.dart:11:3 • prefer_const_constructors_in_immutables
+   info • Invalid use of a private type in a public API • lib/membership.dart:16:3 • library_private_types_in_public_api
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:28:18 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:29:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:35:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:73:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:105:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:107:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:139:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:141:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:153:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:186:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:188:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:200:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:249:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:251:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:263:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:302:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:304:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:318:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:320:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:339:26 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/membership.dart:351:36 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:352:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:354:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:379:34 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/membership.dart:412:37 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:413:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:415:38 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:419:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:421:38 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:426:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:428:38 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:435:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:454:26 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/membership.dart:466:36 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:467:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:469:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:494:34 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/membership.dart:527:37 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:528:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:530:38 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:534:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:536:38 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:541:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:543:38 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:550:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:569:26 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/membership.dart:581:36 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:582:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:584:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:609:34 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:655:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:657:22 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/membership.dart:675:28 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:676:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:678:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:699:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/membership.dart:701:24 • prefer_const_constructors
+   info • The constant name '_svg_ov770' isn't a lowerCamelCase identifier • lib/membership.dart:717:14 • constant_identifier_names
+   info • The constant name '_svg_ayyqba' isn't a lowerCamelCase identifier • lib/membership.dart:719:14 • constant_identifier_names
+   info • The constant name '_svg_aw3tg6' isn't a lowerCamelCase identifier • lib/membership.dart:721:14 • constant_identifier_names
+   info • The constant name '_svg_h06yh0' isn't a lowerCamelCase identifier • lib/membership.dart:723:14 • constant_identifier_names
+   info • The constant name '_svg_nprh1w' isn't a lowerCamelCase identifier • lib/membership.dart:725:14 • constant_identifier_names
+   info • The constant name '_svg_euwd' isn't a lowerCamelCase identifier • lib/membership.dart:727:14 • constant_identifier_names
+   info • The constant name '_svg_qcdn36' isn't a lowerCamelCase identifier • lib/membership.dart:729:14 • constant_identifier_names
+   info • The constant name '_svg_k446c' isn't a lowerCamelCase identifier • lib/membership.dart:731:14 • constant_identifier_names
+   info • Constructors in '@immutable' classes should be declared as 'const' • lib/nutrition.dart:11:3 • prefer_const_constructors_in_immutables
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:39:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:41:22 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/nutrition.dart:80:44 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:81:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:83:45 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:90:39 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:97:42 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/nutrition.dart:103:46 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:104:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:106:47 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:121:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:123:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:137:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:139:46 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/nutrition.dart:174:44 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:175:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:177:45 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:184:39 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:191:42 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/nutrition.dart:197:46 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:198:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:200:47 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:212:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:214:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:217:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:219:48 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:234:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:236:46 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/nutrition.dart:271:44 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:272:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:274:45 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:281:39 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:288:42 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/nutrition.dart:294:46 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:295:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:297:47 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:309:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:311:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:314:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:316:48 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:331:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:333:46 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/nutrition.dart:368:44 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:369:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:371:45 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:378:39 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:385:42 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/nutrition.dart:391:46 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:392:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:394:47 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:409:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:411:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:425:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:427:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:471:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:503:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:505:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:523:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:525:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:553:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:555:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:567:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:620:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:622:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/nutrition.dart:634:32 • prefer_const_constructors
+   info • The constant name '_svg_r449al' isn't a lowerCamelCase identifier • lib/nutrition.dart:676:14 • constant_identifier_names
+   info • The constant name '_svg_srh2k1' isn't a lowerCamelCase identifier • lib/nutrition.dart:678:14 • constant_identifier_names
+   info • The constant name '_svg_pxzuc7' isn't a lowerCamelCase identifier • lib/nutrition.dart:680:14 • constant_identifier_names
+   info • The constant name '_svg_vyer2o' isn't a lowerCamelCase identifier • lib/nutrition.dart:682:14 • constant_identifier_names
+   info • The constant name '_svg_ryvnk2' isn't a lowerCamelCase identifier • lib/nutrition.dart:684:14 • constant_identifier_names
+   info • The constant name '_svg_gufyj0' isn't a lowerCamelCase identifier • lib/nutrition.dart:686:14 • constant_identifier_names
+   info • The constant name '_svg_urvh' isn't a lowerCamelCase identifier • lib/nutrition.dart:688:14 • constant_identifier_names
+   info • The constant name '_svg_udqc21' isn't a lowerCamelCase identifier • lib/nutrition.dart:690:14 • constant_identifier_names
+   info • Constructors in '@immutable' classes should be declared as 'const' • lib/profile.dart:15:3 • prefer_const_constructors_in_immutables
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:23:18 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:24:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:27:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:33:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:82:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:93:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:106:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:108:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:140:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:142:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:154:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:187:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:189:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:201:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:224:24 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/profile.dart:230:28 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:231:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:233:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:258:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:258:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:264:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:280:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:281:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:282:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:285:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:287:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:323:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:325:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:337:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:389:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:391:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:434:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:436:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:470:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:472:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:490:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:528:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:530:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:586:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/profile.dart:588:22 • prefer_const_constructors
+   info • The constant name '_svg_a4ui' isn't a lowerCamelCase identifier • lib/profile.dart:605:14 • constant_identifier_names
+   info • The constant name '_svg_jrnlv9' isn't a lowerCamelCase identifier • lib/profile.dart:607:14 • constant_identifier_names
+   info • The constant name '_svg_rq2en0' isn't a lowerCamelCase identifier • lib/profile.dart:609:14 • constant_identifier_names
+   info • The constant name '_svg_m8dlg' isn't a lowerCamelCase identifier • lib/profile.dart:611:14 • constant_identifier_names
+   info • The constant name '_svg_qh44mj' isn't a lowerCamelCase identifier • lib/profile.dart:613:14 • constant_identifier_names
+   info • The constant name '_svg_b25hxm' isn't a lowerCamelCase identifier • lib/profile.dart:615:14 • constant_identifier_names
+   info • The constant name '_svg_tsia2p' isn't a lowerCamelCase identifier • lib/profile.dart:617:14 • constant_identifier_names
+   info • The constant name '_svg_k621g' isn't a lowerCamelCase identifier • lib/profile.dart:619:14 • constant_identifier_names
+   info • The constant name '_svg_zhuv72' isn't a lowerCamelCase identifier • lib/profile.dart:621:14 • constant_identifier_names
+   info • The constant name '_svg_pzbpj' isn't a lowerCamelCase identifier • lib/profile.dart:623:14 • constant_identifier_names
+   info • The constant name '_svg_nwj' isn't a lowerCamelCase identifier • lib/profile.dart:625:14 • constant_identifier_names
+   info • The constant name '_svg_qi06zj' isn't a lowerCamelCase identifier • lib/profile.dart:627:14 • constant_identifier_names
+   info • The constant name '_svg_rkulfq' isn't a lowerCamelCase identifier • lib/profile.dart:629:14 • constant_identifier_names
+   info • The constant name '_svg_unpds' isn't a lowerCamelCase identifier • lib/profile.dart:631:14 • constant_identifier_names
+   info • The constant name '_svg_cof68' isn't a lowerCamelCase identifier • lib/profile.dart:633:14 • constant_identifier_names
+   info • The constant name '_svg_albcqy' isn't a lowerCamelCase identifier • lib/profile.dart:635:14 • constant_identifier_names
+   info • Invalid use of a private type in a public API • lib/review.dart:16:3 • library_private_types_in_public_api
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:36:18 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:37:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:40:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:110:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:123:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:125:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:157:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:159:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:171:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:204:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:206:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:218:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:235:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:242:24 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/review.dart:248:28 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:249:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:251:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:261:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:263:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:307:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:309:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:357:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:359:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:397:31 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:399:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:408:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:422:24 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/review.dart:432:34 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:433:25 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:435:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:442:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:458:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:460:34 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:477:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:478:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:479:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:482:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/review.dart:484:24 • prefer_const_constructors
+   info • The constant name '_svg_bqjwf' isn't a lowerCamelCase identifier • lib/review.dart:502:14 • constant_identifier_names
+   info • The constant name '_svg_tth' isn't a lowerCamelCase identifier • lib/review.dart:504:14 • constant_identifier_names
+   info • The constant name '_svg_ee61t' isn't a lowerCamelCase identifier • lib/review.dart:506:14 • constant_identifier_names
+   info • The constant name '_svg_iengje' isn't a lowerCamelCase identifier • lib/review.dart:508:14 • constant_identifier_names
+   info • The constant name '_svg_y4salz' isn't a lowerCamelCase identifier • lib/review.dart:510:14 • constant_identifier_names
+   info • The constant name '_svg_nw8fxi' isn't a lowerCamelCase identifier • lib/review.dart:512:14 • constant_identifier_names
+   info • The constant name '_svg_phwfm' isn't a lowerCamelCase identifier • lib/review.dart:514:14 • constant_identifier_names
+   info • The constant name '_svg_ozb9m' isn't a lowerCamelCase identifier • lib/review.dart:516:14 • constant_identifier_names
+   info • The constant name '_svg_a82xw' isn't a lowerCamelCase identifier • lib/review.dart:518:14 • constant_identifier_names
+   info • The declaration '_svg_a82xw' isn't referenced • lib/review.dart:518:14 • unused_element
+   info • The constant name '_svg_xqozkv' isn't a lowerCamelCase identifier • lib/review.dart:520:14 • constant_identifier_names
+   info • The declaration '_svg_xqozkv' isn't referenced • lib/review.dart:520:14 • unused_element
+   info • The constant name '_svg_sbqnvq' isn't a lowerCamelCase identifier • lib/review.dart:522:14 • constant_identifier_names
+   info • The declaration '_svg_sbqnvq' isn't referenced • lib/review.dart:522:14 • unused_element
+   info • The constant name '_svg_l8vasc' isn't a lowerCamelCase identifier • lib/review.dart:524:14 • constant_identifier_names
+   info • The declaration '_svg_l8vasc' isn't referenced • lib/review.dart:524:14 • unused_element
+   info • The constant name '_svg_xhfmua' isn't a lowerCamelCase identifier • lib/review.dart:526:14 • constant_identifier_names
+   info • The declaration '_svg_xhfmua' isn't referenced • lib/review.dart:526:14 • unused_element
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:53:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:60:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:64:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:85:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:91:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:95:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:106:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:112:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:116:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:172:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:174:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:188:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:190:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:201:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:202:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:203:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:206:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:208:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:221:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:227:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:231:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:312:24 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/signup.dart:320:28 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:321:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:323:29 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:331:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:344:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:346:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:360:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:373:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:375:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:389:11 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:390:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:391:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:394:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/signup.dart:396:24 • prefer_const_constructors
+   info • The constant name '_svg_iwi0z' isn't a lowerCamelCase identifier • lib/signup.dart:423:14 • constant_identifier_names
+   info • The constant name '_svg_fmxot' isn't a lowerCamelCase identifier • lib/signup.dart:425:14 • constant_identifier_names
+   info • The constant name '_svg_pg9rv9' isn't a lowerCamelCase identifier • lib/signup.dart:427:14 • constant_identifier_names
+   info • The constant name '_svg_y6syea' isn't a lowerCamelCase identifier • lib/signup.dart:429:14 • constant_identifier_names
+   info • The constant name '_svg_egyyxn' isn't a lowerCamelCase identifier • lib/signup.dart:431:14 • constant_identifier_names
+   info • The constant name '_svg_h9gt' isn't a lowerCamelCase identifier • lib/signup.dart:433:14 • constant_identifier_names
+   info • The constant name '_svg_czwoh' isn't a lowerCamelCase identifier • lib/signup.dart:435:14 • constant_identifier_names
+   info • The constant name '_svg_bkayu4' isn't a lowerCamelCase identifier • lib/signup.dart:437:14 • constant_identifier_names
+   info • The constant name '_svg_q0n85l' isn't a lowerCamelCase identifier • lib/signup.dart:439:14 • constant_identifier_names
+   info • The constant name '_svg_afqrtv' isn't a lowerCamelCase identifier • lib/signup.dart:441:14 • constant_identifier_names
+   info • The constant name '_svg_b08qs0' isn't a lowerCamelCase identifier • lib/signup.dart:443:14 • constant_identifier_names
+   info • The constant name '_svg_bwt0g5' isn't a lowerCamelCase identifier • lib/signup.dart:445:14 • constant_identifier_names
+   info • The constant name '_svg_bxw9ew' isn't a lowerCamelCase identifier • lib/signup.dart:447:14 • constant_identifier_names
+   info • Constructors in '@immutable' classes should be declared as 'const' • lib/terms_and_conditions.dart:11:3 • prefer_const_constructors_in_immutables
+   info • Use 'const' with the constructor to improve performance • lib/terms_and_conditions.dart:28:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/terms_and_conditions.dart:30:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/terms_and_conditions.dart:81:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/terms_and_conditions.dart:92:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/terms_and_conditions.dart:105:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/terms_and_conditions.dart:107:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/terms_and_conditions.dart:139:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/terms_and_conditions.dart:141:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/terms_and_conditions.dart:153:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/terms_and_conditions.dart:202:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/terms_and_conditions.dart:204:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/terms_and_conditions.dart:216:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/terms_and_conditions.dart:255:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/terms_and_conditions.dart:257:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/terms_and_conditions.dart:285:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/terms_and_conditions.dart:287:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/terms_and_conditions.dart:299:32 • prefer_const_constructors
+   info • The constant name '_svg_bes6c3' isn't a lowerCamelCase identifier • lib/terms_and_conditions.dart:321:14 • constant_identifier_names
+   info • The constant name '_svg_uzhbv2' isn't a lowerCamelCase identifier • lib/terms_and_conditions.dart:323:14 • constant_identifier_names
+   info • The constant name '_svg_yop9k3' isn't a lowerCamelCase identifier • lib/terms_and_conditions.dart:325:14 • constant_identifier_names
+   info • The constant name '_svg_z8yrt2' isn't a lowerCamelCase identifier • lib/terms_and_conditions.dart:327:14 • constant_identifier_names
+   info • The constant name '_svg_yloo6' isn't a lowerCamelCase identifier • lib/terms_and_conditions.dart:329:14 • constant_identifier_names
+   info • The constant name '_svg_vzy8tl' isn't a lowerCamelCase identifier • lib/terms_and_conditions.dart:331:14 • constant_identifier_names
+   info • The constant name '_svg_m0xxiz' isn't a lowerCamelCase identifier • lib/terms_and_conditions.dart:333:14 • constant_identifier_names
+   info • The constant name '_svg_eunyi' isn't a lowerCamelCase identifier • lib/terms_and_conditions.dart:335:14 • constant_identifier_names
+   info • Constructors for public widgets should have a named 'key' parameter • lib/tutorial.dart:12:7 • use_key_in_widget_constructors
+   info • Invalid use of a private type in a public API • lib/tutorial.dart:14:3 • library_private_types_in_public_api
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:61:14 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:62:16 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:96:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:98:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:112:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:114:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:127:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:129:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:142:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:144:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:169:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:200:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:202:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:234:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:236:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:248:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:279:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:281:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:293:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:324:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:326:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/tutorial.dart:373:17 • prefer_const_constructors
+   info • Use a 'SizedBox' to add whitespace to a layout • lib/tutorial.dart:376:22 • sized_box_for_whitespace
+   info • The constant name '_svg_xu2xt4' isn't a lowerCamelCase identifier • lib/tutorial.dart:391:14 • constant_identifier_names
+   info • The constant name '_svg_qvc4xs' isn't a lowerCamelCase identifier • lib/tutorial.dart:393:14 • constant_identifier_names
+   info • The constant name '_svg_niatn7' isn't a lowerCamelCase identifier • lib/tutorial.dart:395:14 • constant_identifier_names
+   info • The declaration '_svg_niatn7' isn't referenced • lib/tutorial.dart:395:14 • unused_element
+   info • The constant name '_svg_mm5' isn't a lowerCamelCase identifier • lib/tutorial.dart:397:14 • constant_identifier_names
+   info • The constant name '_svg_u6ghqa' isn't a lowerCamelCase identifier • lib/tutorial.dart:399:14 • constant_identifier_names
+   info • The constant name '_svg_r8ishh' isn't a lowerCamelCase identifier • lib/tutorial.dart:401:14 • constant_identifier_names
+   info • The constant name '_svg_gbd9d' isn't a lowerCamelCase identifier • lib/tutorial.dart:403:14 • constant_identifier_names
+   info • The constant name '_svg_cm4zne' isn't a lowerCamelCase identifier • lib/tutorial.dart:405:14 • constant_identifier_names
+   info • The constant name '_svg_jn8ia' isn't a lowerCamelCase identifier • lib/tutorial.dart:407:14 • constant_identifier_names
+   info • Constructors in '@immutable' classes should be declared as 'const' • lib/workouts.dart:11:3 • prefer_const_constructors_in_immutables
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:39:20 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:41:22 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/workouts.dart:80:44 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:81:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:83:45 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:90:39 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:97:42 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/workouts.dart:103:46 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:104:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:106:47 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:118:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:120:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:123:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:125:48 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:139:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:141:46 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/workouts.dart:176:44 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:177:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:179:45 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:186:39 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:193:42 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/workouts.dart:199:46 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:200:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:202:47 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:214:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:216:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:219:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:221:48 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:236:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:238:46 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/workouts.dart:273:44 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:274:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:276:45 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:283:39 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:290:42 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/workouts.dart:296:46 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:297:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:299:47 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:314:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:316:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:327:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:329:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:332:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:334:48 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/workouts.dart:370:44 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:371:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:373:45 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:380:39 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:387:42 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/workouts.dart:393:46 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:394:37 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:396:47 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:406:38 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/workouts.dart:407:43 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:408:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:409:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:411:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:426:38 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/workouts.dart:427:43 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:428:35 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:429:46 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:431:44 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:475:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:507:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:509:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:532:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:534:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:546:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:578:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:580:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:592:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:634:28 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/workouts.dart:636:30 • prefer_const_constructors
+   info • The constant name '_svg_ykvk' isn't a lowerCamelCase identifier • lib/workouts.dart:687:14 • constant_identifier_names
+   info • The constant name '_svg_soho0v' isn't a lowerCamelCase identifier • lib/workouts.dart:689:14 • constant_identifier_names
+   info • The constant name '_svg_nmbe73' isn't a lowerCamelCase identifier • lib/workouts.dart:691:14 • constant_identifier_names
+   info • The constant name '_svg_snqsbu' isn't a lowerCamelCase identifier • lib/workouts.dart:693:14 • constant_identifier_names
+   info • The constant name '_svg_ljoibs' isn't a lowerCamelCase identifier • lib/workouts.dart:695:14 • constant_identifier_names
+   info • The constant name '_svg_k0qhlg' isn't a lowerCamelCase identifier • lib/workouts.dart:697:14 • constant_identifier_names
+   info • The constant name '_svg_k0zq7r' isn't a lowerCamelCase identifier • lib/workouts.dart:699:14 • constant_identifier_names
+   info • The constant name '_svg_wo6uq1' isn't a lowerCamelCase identifier • lib/workouts.dart:701:14 • constant_identifier_names
+
+882 issues found. (ran in 2.4s)
